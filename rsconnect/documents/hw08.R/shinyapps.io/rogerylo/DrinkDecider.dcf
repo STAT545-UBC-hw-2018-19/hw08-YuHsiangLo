@@ -1,0 +1,13 @@
+name: DrinkDecider
+title: DrinkDecider
+username:
+account: rogerylo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 575206
+bundleId: 1703815
+url: https://rogerylo.shinyapps.io/DrinkDecider/
+when: 1542343331.80851
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
